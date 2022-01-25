@@ -16,6 +16,7 @@
   <img align="center" alt="azk-vim" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
   <img align="center" alt="azk-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="azk-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="azk-tf" height="30" width="40" src="https://www.datocms-assets.com/2885/1620155117-brandhcterraformverticalcolorwhite.svg">
 </div>
   
   ##
