@@ -3,7 +3,7 @@
 - 🔭 Hoje atuo como DevOps Cloud Microsoft Azure
 - 🌱 Azure Cloud Specialist | DevOps | IaC | Terraform | Container |
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/erickalex//">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=azzouck&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azzouck&layout=compact&langs_count=7&theme=dark"/>
